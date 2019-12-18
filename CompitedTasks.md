@@ -11,3 +11,21 @@
 ## 05 https://Grenzen.github.io/JavaScript30/FlexPanelGallery/index-START
 
 ## 06 https://Grenzen.github.io/JavaScript30/TypeAhead/index-START
+
+## 07 https://Grenzen.github.io/JavaScript30/ArrayCardioDay2/index-START
+
+## 08 https://Grenzen.github.io/JavaScript30/FunWithHTML5Canvas/index-START
+
+## 09
+
+## 10
+
+## 11
+
+## 12
+
+## 13
+
+## 14
+
+## 15 https://Grenzen.github.io/JavaScript30/LocalStorage/index-START
