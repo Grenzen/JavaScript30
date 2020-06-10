@@ -16,9 +16,9 @@
 
 ## 08 https://Grenzen.github.io/JavaScript30/FunWithHTML5Canvas/index-START
 
-## 09
+## 09 https://Grenzen.github.io/JavaScript30/DevToolsDomination/index-START
 
-## 10
+## 10 https://Grenzen.github.io/JavaScript30/HoldShiftandCheckCheckboxes/index-START
 
 ## 11
 
