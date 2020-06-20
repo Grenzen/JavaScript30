@@ -22,7 +22,7 @@
 
 ## 11 https://Grenzen.github.io/JavaScript30/CustomVideoPlayer/index-START
 
-## 12
+## 12 https://Grenzen.github.io/JavaScript30/KeySequenceDetection/index-START
 
 ## 13
 
