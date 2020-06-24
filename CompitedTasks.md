@@ -34,7 +34,7 @@
 
 ## 17 https://Grenzen.github.io/JavaScript30/SortWithoutArticles/index-START
 
-## 18 
+## 18 https://Grenzen.github.io/JavaScript30/AddingUpTimesWithReduce/index-START
 
 ## 19 
 
